@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TaskProject</string>
+
+    <integer-array name="img_id_arr">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+    </integer-array>
+    <string-array name="nav_item_activity_titles">
+
+        <item>Home</item>
+
+
+
+    </string-array>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+</resources>
